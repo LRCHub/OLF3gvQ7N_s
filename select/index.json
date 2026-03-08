@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "最後の雨",
+  "base_artist": "Ms.OOJA",
+  "createdAt": "2026-03-08T08:12:44.533308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "中西保志",
+      "has_synced": true,
+      "path": "select/01_最後の雨_中西保志.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/02_最後の雨_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最後の雨 - Saigono Ame",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/03_最後の雨_-_Saigono_Ame_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "最後の雨 - Saigo No Ame",
+      "artist": "Yasushi Nakanishi",
+      "has_synced": true,
+      "path": "select/04_最後の雨_-_Saigo_No_Ame_Yasushi_Nakanishi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/05_最後の雨_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "navy & ivory",
+      "has_synced": false,
+      "path": "select/06_最後の雨_navy_&_ivory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/07_最後の雨_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/08_最後の雨_杏里.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "Yasushi Nakanishi",
+      "has_synced": true,
+      "path": "select/09_最後の雨_Yasushi_Nakanishi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "最後の雨 (ALBUM VERSION)",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/10_最後の雨_(ALBUM_VERSION)_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "最後の雨 (ALBUM VERSION)",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/11_最後の雨_(ALBUM_VERSION)_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "中西保志",
+      "has_synced": true,
+      "path": "select/12_最後の雨_中西保志.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "最後の雨",
+      "artist": "中西保志",
+      "has_synced": true,
+      "path": "select/13_最後の雨_中西保志.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最後の雨",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/pl_01_最後の雨_Ms.OOJA.txt"
+    }
+  ]
+}
